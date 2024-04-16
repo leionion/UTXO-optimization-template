@@ -1,5 +1,5 @@
-import { getUtxos, pushBTCpmt } from "../split-utxo/utils/utxo";
-import { Wallet } from "../split-utxo/utils/wallet";
+import { getUtxos, pushBTCpmt } from "./utils/utxo";
+import { Wallet } from "./utils/wallet";
 import * as Bitcoin from "bitcoinjs-lib";
 import * as ecc from "tiny-secp256k1";
 
