@@ -3,4 +3,6 @@ const config = {
   encodedAddressPrefix: "testnet",
 };
 
+
+//mainnet integration will be soon
 export default config;
