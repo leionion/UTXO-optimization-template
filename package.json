@@ -9,6 +9,7 @@
     "send" : "ts-node sendUTXO",
     "split": "ts-node splitUTXO"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
