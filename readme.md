@@ -4,7 +4,7 @@ This guide provides explaining how to utilize them effectively for managing UTXO
 
 ## Scripts Description
 
-
+ 
 ### `npm run split`
 
 - **Purpose**: Splits a larger UTXO into multiple 546 sats UTXOs. This is useful for transaction privacy and for creating denominations that are easier to split UTXO accurately.
